@@ -4,5 +4,5 @@
 
 然后按照下面视频操作。
 
-<video src="https://github.com/atxiu/SS-Client/blob/master/Android/Clash-Android.mp4?raw=true"></video>
+<video src="https://github.com/atxiu/SS-Client/raw/master/Android/Clash-Android.mp4"></video>
 
